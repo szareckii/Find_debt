@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Find debt</string>
+    <string name="new_request">Новый запрос</string>
+    <string name="my_request">Мои запросы</string>
+    <string name="settings">Настройки</string>
+</resources>

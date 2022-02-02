@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/page_new_request"
+        android:enabled="true"
+        android:icon="@drawable/ic_search"
+        android:title="@string/new_request"/>
+    <item
+        android:id="@+id/page_my_requests"
+        android:enabled="true"
+        android:icon="@drawable/ic_list"
+        android:title="@string/my_request"/>
+    <item
+        android:id="@+id/page_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings"/>
+</menu>
